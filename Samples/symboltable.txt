@@ -1,0 +1,5 @@
+Name		Type	Level	Value
+base      	var    	  0	  4
+power     	var    	  0	  5
+answer    	var    	  0	  6
+Power     	proc   	  0	  1

@@ -1,0 +1,25 @@
+var base, power, answer;
+
+procedure Power; /*calculates the power*/
+begin
+
+	while power > 0 do begin
+        answer := answer * base;
+        power := power - 1;
+    end;
+end;
+
+begin
+    /*this program reads in two inputs from user*/
+    /*to calculate the power*/
+
+    read base; /*read in base*/
+
+    read power; /*read in power*/
+
+    answer := 1;
+
+    call Power; /*compute base^power */
+
+    write answer; /*print the answer to the screen */
+end.

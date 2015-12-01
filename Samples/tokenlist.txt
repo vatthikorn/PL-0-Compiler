@@ -1,0 +1,1 @@
+29 2 base 17 2 power 17 2 answer 18 30 2 Power 18 21 25 2 power 13 3 0 26 21 2 answer 20 2 answer 6 2 base 18 2 power 20 2 power 5 3 1 18 22 18 22 18 21 32 2 base 18 32 2 power 18 2 answer 20 3 1 18 27 2 Power 18 31 2 answer 18 22 19 

@@ -1,0 +1,26 @@
+var base, power, answer;
+
+procedure Power; 
+begin
+
+	while power > 0 do begin
+        answer := answer * base;
+        power := power - 1;
+    end;
+end;
+
+begin
+    
+    
+
+    read base; 
+
+    read power; 
+
+    answer := 1;
+
+    call Power; 
+
+    write answer; 
+end.
+
