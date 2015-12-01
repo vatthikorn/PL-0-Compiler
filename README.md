@@ -4,7 +4,7 @@ A PL/0 compiler with lexical analyzer, syntax analyzer and machine code generato
 How to compile and run it?
 ==========================
 
-- Within terminal (or Eustis server), navigate to the directory containing
+- Within terminal, navigate to the directory containing
 the source code and the input.txt file
 
 - Run the following command to compile:
