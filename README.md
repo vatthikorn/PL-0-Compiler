@@ -9,11 +9,11 @@ the source code and the input.txt file
 
 - Run the following command to compile:
 
-$ gcc -o <Executable File Name> <File Name>.c
+$ gcc -o [Executable File Name] [File Name].c
 
 Then to run the executable file:
 
-$ ./<Executable File Name> <Command line switches>
+$ ./[Executable File Name] [Command line switches]
 
 The following command line switches print its corresponding
 type of output to the screen:
@@ -28,6 +28,7 @@ type of output to the screen:
 Example: 
 
 $ gcc -o Compiler Compiler.c
+
 $ ./Compiler -t -s -m -a -v
 
 This will create seven files: cleaninput.txt, lexemetable.txt, tokenlist.txt,
@@ -42,5 +43,7 @@ order of output
 Authors
 ======
 Vatthikorn Apiratitham
+
 Amanda Forster
+
 Taylor Veith
